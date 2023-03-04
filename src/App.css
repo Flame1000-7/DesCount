@@ -1,0 +1,30 @@
+.wrap{
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  height: 200px;
+}
+input{
+  margin: 5px;
+}
+.values{
+  display: flex;
+  flex-direction: row;
+}
+.input{
+  display: flex;
+  flex-direction: column;
+  height: 150px;
+  justify-content: center;
+}
+.p{
+  display: flex;
+  flex-direction: column;
+  width: 100px;
+  margin: auto;
+}
+.p p{
+  font-size: 10px;
+  width: 100px;
+  margin-top: 5px;
+}
